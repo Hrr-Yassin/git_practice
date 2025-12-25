@@ -1,0 +1,10 @@
+total 10
+drwxr-xr-x 1 Myth 197609  0 Dec 25 01:07 [0m[01;34m.[0m/
+drwxr-xr-x 1 Myth 197609  0 Dec 25 00:08 [01;34m..[0m/
+drwxr-xr-x 1 Myth 197609  0 Dec 25 01:05 [01;34m.git[0m/
+-rw-r--r-- 1 Myth 197609 16 Dec 25 00:56 .gitignore
+-rw-r--r-- 1 Myth 197609  0 Dec 25 01:07 h1.txt
+-rw-r--r-- 1 Myth 197609  0 Dec 25 00:54 his.txt
+-rw-r--r-- 1 Myth 197609  0 Dec 25 00:54 his1.log
+-rw-r--r-- 1 Myth 197609  0 Dec 25 00:54 his2.log
+-rw-r--r-- 1 Myth 197609 50 Dec 25 00:41 README.md
